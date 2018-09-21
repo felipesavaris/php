@@ -1,6 +1,6 @@
 <?php
 
-echo "Olá mundo! <strong>hahaha</strong>";
+echo "Olá mundo! <strong>hahaha</strong>. Novo teste editando pelo GitHub";
 
 ?>
 
